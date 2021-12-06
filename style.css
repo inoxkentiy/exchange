@@ -1,0 +1,54 @@
+body {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    display: flex;
+}
+
+#container {
+    width: 50%;
+    margin-top: 8%;
+}
+
+#photo {
+    width: 50%;
+}
+
+select {
+    background-color: azure;
+    color: rgb(136, 0, 84);
+    height: 40px;
+    width: 100px;
+
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 50px;
+}
+
+#arrow {
+    color: blue;
+    font-size: 45px;
+}
+
+input {
+    background-color: azure;
+    height: 45px;
+    width: 300px;
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 10px;
+}
+
+#btn {
+    background-color: deeppink;
+    height: 50px;
+    border-radius: 30px;
+    color: white;
+    width: 300px;
+
+    font-family: 'Montserrat', sans-serif;
+    border: none;
+    font-size: 40px;
+}
